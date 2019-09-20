@@ -1,13 +1,13 @@
  [دورة حسام عصام : فن تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR&app=desktop)
  
-1-machine learningتعليم الآلة , 	 القسم الأول : مقدمة
+machine learningتعليم الآلة , 	 القسم الأول : مقدمة
 
-تعليم الآلة , القسم الثاني : التوقع-2 Machine learning , Regression
+تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression
 
 
-تعليم الآلة , القسم الثالث : بايثون-3 Machine learning , Python
+تعليم الآلة , القسم الثالث : بايثون- Machine learning , Python
 
-القسم الرابع : التصنيف-4 Classification & Logistic Regression
+القسم الرابع : التصنيف Classification & Logistic Regression
 
 القسم الخامس : الشبكات العصبية-5 Neural Network
 
